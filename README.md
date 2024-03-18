@@ -1,1 +1,1 @@
-# Assignment-2
+This code creates a simple GIF search interface where users can enter a keyword, and the application fetches and displays relevant GIFs from the Giphy API. It also provides a loading spinner to indicate when the GIFs are being loaded.
